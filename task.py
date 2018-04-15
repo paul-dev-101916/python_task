@@ -1,4 +1,4 @@
-class TaskType:
+class TaskType1:
     task_id = None
     task_name = None
     task_description = None

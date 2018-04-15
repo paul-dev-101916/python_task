@@ -4,7 +4,8 @@ class TaskManagerService:
 
     task_manager_dao = TaskManagerDAO()
 
-    # def getAllTasks(self):
+    def getAllTasks(self):
+        task_manager_dao.
 
     # def getTasksForProject(self):
 

@@ -1,4 +1,4 @@
-class ProjectType:
+class ProjectType1:
     project_id = None
     project_name = None
     project_description = None

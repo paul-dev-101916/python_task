@@ -1,4 +1,4 @@
-class NoteType:
+class NoteType1:
     note_id = None
     note_type =  None
     note_text = None
